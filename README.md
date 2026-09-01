@@ -1,23 +1,20 @@
-# interview-learning-log
-Record my job‑hunting journey, daily learning notes, algorithm practice, interview summary and technical knowledge sharing.
+# 求职学习笔记
+> 记录求职备考全过程，刷题、知识点复盘，长期公开分享。
 
-# Job‑Hunt Notes
-> My career‑preparation repository, recording interview learning, algorithm practice and technical knowledge.
-
-## 📚 Language Stack
+## 🛠️ 技术栈
 - Python
 - Java
 - C++
 
-## 📁 Repository Catalog
-- **LeetCode**: Algorithm solutions
-- **Basic‑Knowledge**: Computer foundation & AI‑related notes
-- **Interview‑Review**: Summary after interviews
-- **Daily‑Log**: Daily‑learning journal
+## 📁 仓库目录
+- **LeetCode刷题**：算法题解代码
+- **基础知识笔记**：计算机基础、AI开发相关笔记
+- **面试复盘**：每次面试后的总结与反思
+- **每日学习日志**：每日学习进度记录
 
-## 📌 Progress
-- Algorithm: 
-- Computer Basics: 
-‑ AI‑Development:
+## 📌 当前进度
+- 算法刷题：
+- 计算机基础：
+- AI方向技术：
 
-> Keep learning, keep sharing.
+>日拱一卒，功不唐捐。
